@@ -1,0 +1,113 @@
+[
+  {
+    "bodyPart": "Neck",
+    "exerciseName": "Chin Tucks",
+    "sets": "3",
+    "reps": "3",
+    "holdTime": "3",
+    "side": "Left",
+    "days": [
+      "M"
+    ],
+    "frequency": "3",
+    "therapistNotes": "Be good",
+    "id": "c1732cba-ad13-4be0-9011-0d6da7d69a5d"
+  },
+  {
+    "bodyPart": "Neck",
+    "exerciseName": "Chin Tucks",
+    "sets": "3",
+    "reps": "3",
+    "holdTime": "3",
+    "side": "Right",
+    "days": [
+      "M"
+    ],
+    "frequency": "3",
+    "therapistNotes": "Be good",
+    "id": "35f015a1-da4b-4f34-91ca-81447e139f3f"
+  },
+  {
+    "bodyPart": "Hand",
+    "exerciseName": "Grip Strengthening",
+    "sets": "3",
+    "reps": "3",
+    "holdTime": "3",
+    "side": "Left",
+    "days": [
+      "F",
+      "W"
+    ],
+    "frequency": "4",
+    "therapistNotes": "Be good",
+    "id": "3e13f0f0-164e-4e94-a6ba-19b389ff7f5b"
+  },
+  {
+    "id": "796c7357-e66a-4c3a-a508-6f220f491933",
+    "name": "Combo Exercise",
+    "exercises": [
+      {
+        "bodyPart": "Neck",
+        "exerciseName": "Chin Tucks",
+        "sets": "3",
+        "reps": "3",
+        "holdTime": "3",
+        "side": "Left",
+        "days": [
+          "M"
+        ],
+        "frequency": "3",
+        "therapistNotes": "Be good",
+        "id": "c1732cba-ad13-4be0-9011-0d6da7d69a5d"
+      },
+      {
+        "bodyPart": "Neck",
+        "exerciseName": "Chin Tucks",
+        "sets": "3",
+        "reps": "3",
+        "holdTime": "3",
+        "side": "Right",
+        "days": [
+          "M"
+        ],
+        "frequency": "3",
+        "therapistNotes": "Be good",
+        "id": "35f015a1-da4b-4f34-91ca-81447e139f3f"
+      }
+    ]
+  },
+  {
+    "id": "796c7357-e66a-4c3a-a508-6f220f491933",
+    "name": "Combo Exercise",
+    "exercises": [
+      {
+        "bodyPart": "Neck",
+        "exerciseName": "Chin Tucks",
+        "sets": "3",
+        "reps": "3",
+        "holdTime": "3",
+        "side": "Left",
+        "days": [
+          "M"
+        ],
+        "frequency": "3",
+        "therapistNotes": "Be good",
+        "id": "c1732cba-ad13-4be0-9011-0d6da7d69a5d"
+      },
+      {
+        "bodyPart": "Neck",
+        "exerciseName": "Chin Tucks",
+        "sets": "3",
+        "reps": "3",
+        "holdTime": "3",
+        "side": "Right",
+        "days": [
+          "M"
+        ],
+        "frequency": "3",
+        "therapistNotes": "Be good",
+        "id": "35f015a1-da4b-4f34-91ca-81447e139f3f"
+      }
+    ]
+  }
+]
